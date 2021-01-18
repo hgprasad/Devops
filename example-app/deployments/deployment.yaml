@@ -25,7 +25,7 @@ spec:
         image: aimvector/python:1.0.1
         imagePullPolicy: Always
         ports:
-        - containerPort: 5000
+        - containerPort: 5001
         resources:
           requests:
             memory: "64Mi"
